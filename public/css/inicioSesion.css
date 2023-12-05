@@ -1,0 +1,46 @@
+@import url('https: //fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0');
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.formBackgroundColor {
+    background-color: #FFA500;
+} 
+
+.demo-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-lg {
+    padding: 12px 26px;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+::placeholder {
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+.form-control-lg {
+    font-size: 16px;
+    padding: 25px 20px;
+}
+
+.font-500 {
+    font-weight: 500;
+}
+
+.iconoLogo{
+    max-width: 130px;
+}

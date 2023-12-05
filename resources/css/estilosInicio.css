@@ -1,0 +1,25 @@
+body {
+    font-family: 'Hind Madurai', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.parrafo {
+    font-size: larger;
+}
+
+.logo {
+    max-width: 140px;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+.icons {
+    font-family: 'Material Symbols Outlined';
+    font-size: 24px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
